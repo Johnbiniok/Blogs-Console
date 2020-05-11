@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <connectionStrings>
+        <add name="BlogContext" 
+            providerName="System.Data.SqlClient" 
+            connectionString="Server=bitsql.wctc.edu;Database=Blogs-Console_JB_001;User ID=jbiniok2;Password=000512408"/>
+    </connectionStrings>
+</configuration>
